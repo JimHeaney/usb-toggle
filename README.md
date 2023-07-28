@@ -9,17 +9,11 @@ The toggle signal for the power, internally pulled to the ON position, is handle
 
 In addition to acting as a toggle switch, the USB Toggle has an optional current limiter. By default, the module limits current to 500mA. With an external jumper, this can be increased to 1A, or a programming resistor can be used to set a specific current limit between these two values.
 
-### More information can be found on the [GitHub Wiki](https://github.com/JimHeaney/usb-toggle/wiki).
-
-
 ## Current Release
 There are no stable versions for release. The latest WIP is Version 1.1
 
 ## Current State
 Version 1.1 is currently in testing.
-
-## Instructions & Further Documentation
-[See the wiki on GitHub!](https://github.com/JimHeaney/usb-toggle/wiki) 
 
 ## Photos & Media
 Coming Soon!
